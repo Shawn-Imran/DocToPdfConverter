@@ -1,0 +1,33 @@
+.container{
+    background: rgb(12, 223, 170);
+    border: 2px solid rgb(134, 136, 253);
+    width: 50%;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding: 50px;
+    border-radius: 20px;
+}
+
+.hd h2{
+ color: white;
+
+}
+
+
+.input-container {
+    display: flex;
+    width: 100%;
+    margin-bottom: 15px;
+  }
+.icon {
+    margin-top: 5px;
+    margin-right: 5px;
+    margin-bottom: 5px;
+
+    color: rgb(0, 4, 255);;
+    min-width: 50px;
+    text-align: center;
+  }
+  .btn:hover {
+    opacity: 1;
+  }
